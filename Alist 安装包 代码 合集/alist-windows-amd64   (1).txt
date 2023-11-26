@@ -1,0 +1,1 @@
+rclone mount 这里放(在rclone打开网页中设置的name用户名): K: --network-mode --header "Referer:" --multi-thread-streams 8 --buffer-size 512M --vfs-fast-fingerprint --vfs-cache-mode full --no-modtime
